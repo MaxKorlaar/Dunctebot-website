@@ -1,0 +1,5 @@
+
+includes/config.php
+api/updateWhiteAndBlacklist.php
+auth/postbotstats.php
+testpass.php
